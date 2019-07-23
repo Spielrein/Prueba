@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AppTecBDModelStoreContainer" CdmEntityContainer="AppTecBDEntities">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="AppTecBDModel.Admin">
+        <MappingFragment StoreEntitySet="Admins">
+          <ScalarProperty Name="AdminsID" ColumnName="AdminsID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LastNameP" ColumnName="LastNameP" />
+          <ScalarProperty Name="LastNameM" ColumnName="LastNameM" />
+          <ScalarProperty Name="Users" ColumnName="Users" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="InstitutionID" ColumnName="InstitutionID" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Autentications">
+      <EntityTypeMapping TypeName="AppTecBDModel.Autentication">
+        <MappingFragment StoreEntitySet="Autentication">
+          <ScalarProperty Name="IdToken" ColumnName="IdToken" />
+          <ScalarProperty Name="User" ColumnName="User" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="Token" ColumnName="Token" />
+          <ScalarProperty Name="Inssued" ColumnName="Inssued" />
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Binnacles">
+      <EntityTypeMapping TypeName="AppTecBDModel.Binnacle">
+        <MappingFragment StoreEntitySet="Binnacle">
+          <ScalarProperty Name="BinnacleID" ColumnName="BinnacleID" />
+          <ScalarProperty Name="Actions" ColumnName="Actions" />
+          <ScalarProperty Name="Users" ColumnName="Users" />
+          <ScalarProperty Name="Error" ColumnName="Error" />
+          <ScalarProperty Name="Messages" ColumnName="Messages" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Careers">
+      <EntityTypeMapping TypeName="AppTecBDModel.Career">
+        <MappingFragment StoreEntitySet="Careers">
+          <ScalarProperty Name="CareersID" ColumnName="CareersID" />
+          <ScalarProperty Name="Key" ColumnName="Key" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="InstitutionID" ColumnName="InstitutionID" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Classrooms">
+      <EntityTypeMapping TypeName="AppTecBDModel.Classroom">
+        <MappingFragment StoreEntitySet="Classrooms">
+          <ScalarProperty Name="ClassroomID" ColumnName="ClassroomID" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="InstitutionID" ColumnName="InstitutionID" />
+          <ScalarProperty Name="ClassRoomTypeID" ColumnName="ClassRoomTypeID" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClassRoomTypes">
+      <EntityTypeMapping TypeName="AppTecBDModel.ClassRoomType">
+        <MappingFragment StoreEntitySet="ClassRoomType">
+          <ScalarProperty Name="ClassRoomTypeID" ColumnName="ClassRoomTypeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Degrees">
+      <EntityTypeMapping TypeName="AppTecBDModel.Degree">
+        <MappingFragment StoreEntitySet="Degree">
+          <ScalarProperty Name="DegreeID" ColumnName="DegreeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DegreeSubjects">
+      <EntityTypeMapping TypeName="AppTecBDModel.DegreeSubject">
+        <MappingFragment StoreEntitySet="DegreeSubjects">
+          <ScalarProperty Name="DegreeSubjectsID" ColumnName="DegreeSubjectsID" />
+          <ScalarProperty Name="DegreeID" ColumnName="DegreeID" />
+          <ScalarProperty Name="SubjectsID" ColumnName="SubjectsID" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EducationLevels">
+      <EntityTypeMapping TypeName="AppTecBDModel.EducationLevel">
+        <MappingFragment StoreEntitySet="EducationLevels">
+          <ScalarProperty Name="EducationLevelID" ColumnName="EducationLevelID" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employers">
+      <EntityTypeMapping TypeName="AppTecBDModel.Employer">
+        <MappingFragment StoreEntitySet="Employers">
+          <ScalarProperty Name="EmployersID" ColumnName="EmployersID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LastNameP" ColumnName="LastNameP" />
+          <ScalarProperty Name="LastNameM" ColumnName="LastNameM" />
+          <ScalarProperty Name="RFC" ColumnName="RFC" />
+          <ScalarProperty Name="RolesID" ColumnName="RolesID" />
+          <ScalarProperty Name="InstitutionID" ColumnName="InstitutionID" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Groups">
+      <EntityTypeMapping TypeName="AppTecBDModel.Group">
+        <MappingFragment StoreEntitySet="Groups">
+          <ScalarProperty Name="GroupsID" ColumnName="GroupsID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Institutions">
+      <EntityTypeMapping TypeName="AppTecBDModel.Institution">
+        <MappingFragment StoreEntitySet="Institutions">
+          <ScalarProperty Name="InstitutionID" ColumnName="InstitutionID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Direction" ColumnName="Direction" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="EducationLevelID" ColumnName="EducationLevelID" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lessons">
+      <EntityTypeMapping TypeName="AppTecBDModel.Lesson">
+        <MappingFragment StoreEntitySet="Lessons">
+          <ScalarProperty Name="LessonsID" ColumnName="LessonsID" />
+          <ScalarProperty Name="Days" ColumnName="Days" />
+          <ScalarProperty Name="EmployersID" ColumnName="EmployersID" />
+          <ScalarProperty Name="HousStart" ColumnName="HousStart" />
+          <ScalarProperty Name="HourFinish" ColumnName="HourFinish" />
+          <ScalarProperty Name="ClassroomID" ColumnName="ClassroomID" />
+          <ScalarProperty Name="SubjectsID" ColumnName="SubjectsID" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="AppTecBDModel.Role">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="RolesID" ColumnName="RolesID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Specialities">
+      <EntityTypeMapping TypeName="AppTecBDModel.Speciality">
+        <MappingFragment StoreEntitySet="Speciality">
+          <ScalarProperty Name="SpecialityID" ColumnName="SpecialityID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="InstitutionID" ColumnName="InstitutionID" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="AppTecBDModel.Student">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="StudentsID" ColumnName="StudentsID" />
+          <ScalarProperty Name="Enrollment" ColumnName="Enrollment" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LastNameP" ColumnName="LastNameP" />
+          <ScalarProperty Name="LastNameM" ColumnName="LastNameM" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="InstitutionID" ColumnName="InstitutionID" />
+          <ScalarProperty Name="GroupsID" ColumnName="GroupsID" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="DegreeId" ColumnName="DegreeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subjects">
+      <EntityTypeMapping TypeName="AppTecBDModel.Subject">
+        <MappingFragment StoreEntitySet="Subjects">
+          <ScalarProperty Name="SubjectsID" ColumnName="SubjectsID" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Credits" ColumnName="Credits" />
+          <ScalarProperty Name="CareersID" ColumnName="CareersID" />
+          <ScalarProperty Name="SpecialityID" ColumnName="SpecialityID" />
+          <ScalarProperty Name="DateTimeCreation" ColumnName="DateTimeCreation" />
+          <ScalarProperty Name="DateTimeModification" ColumnName="DateTimeModification" />
+          <ScalarProperty Name="UserCreation" ColumnName="UserCreation" />
+          <ScalarProperty Name="UserModification" ColumnName="UserModification" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="AppTecBDModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="AppTecBDModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="AppTecBDModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="AppTecBDModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="AppTecBDModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AppTecBDModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="AppTecBDModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AppTecBDModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="AppTecBDModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="AppTecBDModel.Store.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

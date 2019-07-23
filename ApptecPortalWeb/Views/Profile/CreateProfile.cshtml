@@ -1,0 +1,90 @@
+﻿@{
+    /**/
+
+    Layout = "~/Views/Shared/_Registrar.cshtml";
+    ViewBag.Title = "Registrar";
+}
+
+@using (Html.BeginForm("", "", FormMethod.Post))
+{
+    <center><h4 class="card-title">Registro del administrador</h4></center>
+
+    <div class="form-group">
+        <label class="label">Nombre</label>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Nombre</label>
+                <input type="text" class="form-control" id="nombreAdmin" placeholder="Nombre" value="" required>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="label">Apellido paterno</label>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Apellido paterno</label>
+                <input type="text" class="form-control" id="apellidopAdmin" placeholder="Apellido paterno" value="" required>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="label">Apellido materno</label>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Apellido materno</label>
+                <input type="text" class="form-control" id="apellidomAdmin" placeholder="Apellido materno" value="" required>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <label class="label">Usuario</label>
+        <div class="form-group">
+            <label>Usuario</label>
+            <input type="text" class="form-control" id="usuarioAdmin" placeholder="Usuario" value="" required>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <label class="label">Contrasena</label>
+        <div class="form-group">
+            <label>Contraseña</label>
+            <input type="password" class="form-control" id="contrasenaAdmin" placeholder="Contraseña" value="" required>
+        </div>
+    </div>
+
+    <div class="col-md-12">
+        <label class="label">Institucion</label>
+        <div class="form-group">
+            <label>Institución</label>
+            <select class="form-control" id="institucioId" required>
+                <option selected>Seleccionar</option>
+
+            </select>
+        </div>
+    </div>
+
+    <div class="col-md-12">
+        <label class="label">Foto</label>
+        <div class="form-group">
+            <label>Foto</label>
+            <input id="inputFile" type="file" accept="image/*" onchange="CargarImagen()" />
+        </div>
+    </div>
+
+    <label class="label">Boton</label>
+    <div class="form-group">
+        <center>
+            <button type="button" onclick="Registrar()" class="btn btn-primary submit-btn btn-block">Registrar</button>
+        </center>
+    </div>
+
+}
+
+<script type="text/javascript" src="~/Scripts/jquery-3.4.1.js"></script>
+
+<script src="~/Scripts/Platform/Profile/image.js"></script>
+<script src="~/Scripts/Platform/Profile/GetInstitution.js"></script>
+<script src="~/Scripts/Platform/Profile/RegisterAdmin.js"></script>

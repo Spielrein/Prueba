@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b9822005c85543d1a0567023dbaa46f8" Name="Diagram1">
+        <EntityTypeShape EntityType="AppTecBDModel.Admin" Width="1.5" PointX="5.25" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Autentication" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Binnacle" Width="1.5" PointX="2.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Career" Width="1.5" PointX="5.25" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Classroom" Width="1.5" PointX="8.25" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.ClassRoomType" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Degree" Width="1.5" PointX="6" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.DegreeSubject" Width="1.5" PointX="9.75" PointY="23" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.EducationLevel" Width="1.5" PointX="0.75" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Employer" Width="1.5" PointX="5.25" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Group" Width="1.5" PointX="6" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Institution" Width="1.5" PointX="3" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Lesson" Width="1.5" PointX="10.5" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Role" Width="1.5" PointX="3" PointY="21.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Speciality" Width="1.5" PointX="5.25" PointY="29.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Student" Width="1.5" PointX="8.25" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.Subject" Width="1.5" PointX="7.5" PointY="22.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AppTecBDModel.sysdiagram" Width="1.5" PointX="2.75" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="AppTecBDModel.Fk_AdminsInstitutions" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_CareesInst" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_CareesSubje" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_ClassLesson" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_ClassRoomInst" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_ClassroomsClassRoomType" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_DegreeSubjectsDegree" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_StudenDegree" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_DegreeSubjectsSubj" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.fk_nivel" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_EmployeInst" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.FK_EmployeRols" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_LessonsEmployers" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_StudentsGroups" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_SpecialityInstitution" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_StudentsInst" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_LessonSubj" ManuallyRouted="false" />
+        <AssociationConnector Association="AppTecBDModel.Fk_SpecialitySubjects" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

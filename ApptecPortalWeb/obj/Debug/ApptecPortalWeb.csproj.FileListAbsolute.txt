@@ -1,0 +1,1102 @@
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\Spielrein\Documents\Nueva carpeta\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Owin.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Cors.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\API.pdb
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Business.pdb
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\alexj\OneDrive\Documentos\COMUNIDAD-DESARROLLO-MOVIL\PROYECTOS APPTEC\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Owin.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Cors.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\API.pdb
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Business.pdb
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\Spielrein\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Owin.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Cors.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\API.pdb
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll.config
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.pdb
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Business.pdb
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll.config
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+D:\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+D:\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+D:\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+D:\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+D:\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+D:\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Owin.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Cors.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\API.pdb
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Business.pdb
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\Spielrein\Pictures\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+E:\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+E:\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Owin.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Cors.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\API.pdb
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Business.pdb
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll.config
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\alexj\source\repos\Entrega\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Owin.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Cors.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\API.pdb
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Business.pdb
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll.config
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\Spielrein\Music\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Owin.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Cors.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\API.pdb
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\API.dll.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Data.pdb
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Data.dll.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Business.pdb
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Business.dll.config
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Cors.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.Owin.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\alexj\source\repos\RespaldoPortal\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\alexj\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll.config
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\ApptecPortalWeb.pdb
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.exe.config
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csc.rsp
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.exe.config
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\csi.rsp
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.AppContext.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Console.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.exe.config
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\vbc.rsp
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\WebGrease.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Antlr3.Runtime.pdb
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Newtonsoft.Json.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Helpers.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Mvc.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Optimization.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.Razor.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csprojAssemblyReference.cache
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CoreCompileInputs.cache
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.csproj.CopyComplete
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.dll
+C:\Users\PC18\source\repos\ApptecPortalWeb\ApptecPortalWeb\obj\Debug\ApptecPortalWeb.pdb
